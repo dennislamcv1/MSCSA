@@ -1,5 +1,5 @@
 # MSCSA
-## Microsoft Cloud Support Associate Professional Certificate
+## Microsoft Cloud Support Associate Professional Certificate (12 course series)
 
 Organizations are actively investing in cloud technology, recognizing its potential to drive innovation, disrupt markets, and improve customer retention, ultimately providing a competitive edge in the industry.1 Prepare for a new career in this high-demand field with professional training from Microsoft — an industry-recognized leader in cloud computing technology.
 
